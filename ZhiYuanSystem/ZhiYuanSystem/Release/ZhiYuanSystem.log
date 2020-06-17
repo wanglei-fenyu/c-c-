@@ -1,0 +1,25 @@
+﻿生成启动时间为 2020/5/24 18:07:20。
+     1>项目“F:\vs pp\职工管理\ZhiYuanSystem\ZhiYuanSystem\ZhiYuanSystem.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\VS2013根路径文件\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Employee.cpp Manager.cpp Worker.cpp WorkManager.cpp Boss.cpp "职工管理系统Main.cpp"
+         Employee.cpp
+         Manager.cpp
+         Worker.cpp
+         WorkManager.cpp
+         Boss.cpp
+         职工管理系统Main.cpp
+       Link:
+         C:\VS2013根路径文件\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\vs pp\职工管理\ZhiYuanSystem\Release\ZhiYuanSystem.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\vs pp\职工管理\ZhiYuanSystem\Release\ZhiYuanSystem.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\vs pp\职工管理\ZhiYuanSystem\Release\ZhiYuanSystem.lib" /MACHINE:X86 /SAFESEH Release\Employee.obj
+         Release\Manager.obj
+         Release\Worker.obj
+         Release\WorkManager.obj
+         Release\Boss.obj
+         "Release\职工管理系统Main.obj"
+         正在生成代码
+         已完成代码的生成
+         ZhiYuanSystem.vcxproj -> F:\vs pp\职工管理\ZhiYuanSystem\Release\ZhiYuanSystem.exe
+     1>已完成生成项目“F:\vs pp\职工管理\ZhiYuanSystem\ZhiYuanSystem\ZhiYuanSystem.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.66
